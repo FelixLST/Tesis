@@ -78,5 +78,7 @@ case $opcion in
 	5) echo"Se abira la consola visual de MetaSploit, sugerencia: Usar solo cuando ya se tiene una ip,contraseña y servicio encontrados y listos para explotar"
 		msfconsole
 		;;
+esac
+done
 
 	
